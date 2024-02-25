@@ -56,6 +56,7 @@ need User credentials
 . Integrated Dockerfile in Cakemanger project , so the Cakemanager-1.0.0 image is depolyed in the Container., using Docker Desktop
 
 MySQL Database - alwinsys
+
 MySQL Table - cakes
 
 Stores information about cakes, including their title, description, and image URL.
