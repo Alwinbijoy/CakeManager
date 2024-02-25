@@ -1,6 +1,7 @@
 "# CakeManager" 
 
 This documentation provides an overview of the Cake Management API endpoints and their expected inputs and outputs.
+
 Cake Management API endpoints
 
 1. To add the bulk data  from url - https://gist.githubusercontent.com/hart88/198f29ec5114a3ec3460/raw/8dd19a88f9b8d24c23d9960f3300d0c917a4f07c/cake.json
@@ -49,10 +50,14 @@ need Admin credentials
 need User credentials
 -----------------------------------------------------------------------------------------------------------
 . Controller Testcases added. These test cases involve mocking API behaviors to verify the response status code and messages returned by the controller.
+
 . Added github Workflows : cakeworkflow
+
 . Integrated Dockerfile in Cakemanger project , so the Cakemanager-1.0.0 image is depolyed in the Container., using Docker Desktop
 
 MySQL Database - alwinsys
 MySQL Table - cakes
+
 Stores information about cakes, including their title, description, and image URL.
+
 Columns: id (Primary Key): Unique identifier for each cake, title: Title of the cake, description: Description of the cake, image: URL of the image representing the cake.
