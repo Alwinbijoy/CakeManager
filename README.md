@@ -1,4 +1,5 @@
 "# CakeManager" 
+
 This documentation provides an overview of the Cake Management API endpoints and their expected inputs and outputs.
 Cake Management API endpoints
 
